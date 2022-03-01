@@ -1,5 +1,5 @@
 # osteosarcoma
-Machine learning based on histological images of osteosarcoma for the assessment and prognosis of tumor survival and necrosis
+Noise-reducing attention cross-fusion transformer for histological image classification of osteosarcoma
 
 ![image](https://user-images.githubusercontent.com/46208253/156132355-26a984ec-32cc-43f4-b111-7b12b8f1aac3.png)
 
